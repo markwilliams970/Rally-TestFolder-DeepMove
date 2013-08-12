@@ -135,7 +135,7 @@ begin
 
 	source_test_folder_result = @rally.find(source_test_folder_query)
 
-	# Lookup Target Project Folder
+	# Lookup Target Project
 	target_project_query = RallyAPI::RallyQuery.new()
 	target_project_query.type = :project
 	target_project_query.fetch = true
