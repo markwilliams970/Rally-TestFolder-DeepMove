@@ -23,4 +23,5 @@ $source_test_folder_formatted_id = "TF5"
 Specify the User-Defined variables below. Script will move an entire
 Test Folder hierarchy, including child Folders, Test Cases, and their
 Test Steps and Attachments and Tags, to a Test Folder hierarchy that
-the script will create in the target project.
+the script will create in the target project. The Target Project must
+reside in the same Rally Workspace
