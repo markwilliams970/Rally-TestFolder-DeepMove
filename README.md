@@ -27,6 +27,6 @@ the script will create in the target project. The Target Project must
 reside in the same Rally Workspace.
 
 The script does not delete the Test Folder containers themselves from
-the Source Test Folder. The Test Cases will be moved into a new Test
+the Source Project. The Test Cases will be moved into a new Test
 Folder hierarchy in the Target Project. The Source Test Folders will
 remain in the Source Project, but they will be empty of Test Cases.
