@@ -32,7 +32,7 @@ def move_test_folder(source_test_folder, target_project, parent_of_target_folder
 	# Populate full object for Source Test Folder
 	full_source_test_folder = source_test_folder.read
 
-	# Create Target Test Folder
+	# Create Target Test Folders
 	target_test_folder_fields = {}
 
 	# Only set parent folder if we have a parent
